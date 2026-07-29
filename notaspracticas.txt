@@ -1,5 +1,4 @@
-proyecto metodologia paso-1 
-metodologia paso-2 iniciar
-practica realizada por Daniela 
-paso-3 metodologia de desarrollo 
+METODOLOGÍAS ÁGILES EN EL DESARROLLO DE SOFTWARE
+
+Las metodologías ágiles son un conjunto de técnicas y buenas prácticas aplicadas para la gestión de proyectos de software.
 
