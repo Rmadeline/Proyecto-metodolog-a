@@ -7,3 +7,6 @@ Características principales:
 - Desarrollo iterativo e incremental.
 - Flexibilidad ante los cambios del cliente.
 - Mejora de la comunicación continua en el equipo.
+
+Ventajas del enfoque ágil:
+Permite detectar errores a tiempo, reduce los riesgos del proyecto y garantiza que el cliente reciba un producto funcional desde las primeras etapas del desarrollo.
