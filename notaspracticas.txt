@@ -1,4 +1,4 @@
 METODOLOGÍAS ÁGILES EN EL DESARROLLO DE SOFTWARE
 
 Las metodologías ágiles son un conjunto de técnicas y buenas prácticas aplicadas para la gestión de proyectos de software.
-
+Entre las metodologías más utilizadas se encuentra Scrum, un marco de trabajo adaptativo que fomenta el trabajo colaborativo en equipo y la entrega continua de valor.
