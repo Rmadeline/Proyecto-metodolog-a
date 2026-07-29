@@ -12,3 +12,5 @@ Ventajas del enfoque ágil:
 Permite detectar errores a tiempo, reduce los riesgos del proyecto y garantiza que el cliente reciba un producto funcional desde las primeras etapas del desarrollo.
 
 El uso de herramientas de control de versiones como Git y GitHub complementa de forma ideal este tipo de metodologías, permitiendo el trabajo distribuido y eficiente.
+Conclusión:
+La implementación de metodologías ágiles combinadas con Git asegura la calidad, la trazabilidad y el éxito en el desarrollo de software.
